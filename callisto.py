@@ -11,7 +11,7 @@ window.fps_counter.enabled = False
 window.editor_ui.enabled = False
 
 flotext = ("images/callisto/floor.jpg")
-jupiter = ("../sim1/images/jupiter.png")
+jupiter = ("images/jupiter.png")
 
 floor = flotext
 
